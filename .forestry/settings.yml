@@ -31,6 +31,8 @@ sections:
   label: Contact
   templates:
   - contact
+- type: heading
+  label: Config
 - type: document
   path: site-metadata.json
   label: Global Site Config
